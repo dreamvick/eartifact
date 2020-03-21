@@ -1,0 +1,344 @@
+<!-- NOTICE:  Copyright [1999-2001] Adobe Systems Incorporated.  Adobe hereby grants you the rights to reproduce, modify and distribute this file and its contents, not including any fonts, audio files or raster images included or embedded in or linked to this file, (the "Software"), and to grant such rights to other parties subject to the following:  This notice shall be included in any copy of the Software or any portion thereof.  THE SOFTWARE IS PROVIDED TO YOU AS-IS, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.  IN NO EVENT SHALL ADOBE BE LIABLE TO YOU OR ANY OTHER PARTY FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE. -->
+<!-- Portions of this file are Licensed Materials - Property of UNICOM Systems, Inc. (c) Copyright UNICOM Systems, Inc. 2005, 2008.  All Rights Reserved.  U.S. Government Users Restricted Rights:  Use, duplication or disclosure restricted by GSA ADP Schedule Contract with UNICOM Systems, Inc. -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN"  "http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd" [
+	<!ENTITY st2 "fill:#844800;stroke:none;">
+	<!ENTITY st3 "fill:#AF8300;stroke:none;">
+	<!ENTITY st4 "font-family:'Myriad-Roman';">
+	<!ENTITY st5 "opacity:0.15;fill:#AF8300;stroke:none;">
+	<!ENTITY st6 "opacity:0.1;fill:#C76891;stroke:none;">
+	<!ENTITY st7 "opacity:0.1;fill:#1B586A;stroke:none;">
+	<!ENTITY st8 "fill:#164858;stroke:none;">
+	<!ENTITY st9 "fill:#000000;stroke:none;">
+	<!ENTITY st10 "fill:#80435E;stroke:none;">
+	<!ENTITY st11 "fill:url(#aigrd11);stroke:none;">
+	<!ENTITY st12 "fill:#8C9F07;stroke:none;">
+	<!ENTITY st13 "opacity:0.15;fill:url(#aigrd1);stroke:none;">
+	<!ENTITY st14 "opacity:0.15;fill:#8C9F07;stroke:none;">
+	<!ENTITY st15 "fill:url(#aigrd9);stroke:none;">
+	<!ENTITY st16 "opacity:0.2;fill:url(#aigrd2);stroke:none;">
+	<!ENTITY st17 "fill:#3C560B;stroke:none;">
+	<!ENTITY st18 "fill-rule:nonzero;clip-rule:nonzero;fill:#996600;stroke:#000000;stroke-miterlimit:4;">
+	<!ENTITY st19 "opacity:0.15;">
+	<!ENTITY st20 "opacity:0.25;">
+	<!ENTITY st21 "fill:#24758D;stroke:none;">
+	<!ENTITY st22 "opacity:0.15;fill:#24758D;stroke:none;">
+	<!ENTITY st23 "opacity:0.1;fill:#C2A00E;stroke:none;">
+	<!ENTITY st24 "opacity:0.25;fill:#FF6666;stroke:none;">
+	<!ENTITY st25 "fill:#AD6136;stroke:none;">
+	<!ENTITY st26 "fill:url(#aigrd6);stroke:none;">
+	<!ENTITY st27 "opacity:0.15;fill:#AD6136;stroke:none;">
+	<!ENTITY st28 "fill-rule:nonzero;clip-rule:nonzero;fill:#9999CC;stroke:#999966;stroke-width:0.5;stroke-miterlimit:4;">
+	<!ENTITY st29 "fill:#71A214;stroke:none;">
+	<!ENTITY st30 "opacity:0.1;fill:#48680D;stroke:none;">
+	<!ENTITY st31 "fill:#6A374D;stroke:none;">
+	<!ENTITY st32 "fill-rule:nonzero;clip-rule:nonzero;fill:#999999;stroke:#000000;stroke-miterlimit:4;">
+	<!ENTITY st33 "fill:#2A89A5;stroke:none;">
+	<!ENTITY st34 "fill:#CC9999;stroke:none;">
+	<!ENTITY st35 "fill:#99CC99;stroke:none;">
+	<!ENTITY st36 "fill-rule:nonzero;clip-rule:nonzero;fill:none;stroke:#669999;stroke-width:0.75;stroke-miterlimit:4;">
+	<!ENTITY st37 "opacity:0.5;fill:none;stroke:#FF9966;stroke-width:1;stroke-dasharray:3;">
+	<!ENTITY st38 "fill:#7D6709;stroke:none;">
+	<!ENTITY st39 "opacity:0.1;fill:#CD7100;stroke:none;">
+	<!ENTITY st40 "opacity:0.5;stroke:#FF9966;stroke-width:1;stroke-dasharray:3;">
+	<!ENTITY st41 "fill:#6D3C00;stroke:none;">
+	<!ENTITY st42 "fill:#675507;stroke:none;">
+	<!ENTITY st43 "fill:url(#aigrd10);stroke:none;">
+	<!ENTITY st44 "opacity:0.25;fill:url(#aigrd3);stroke:none;">
+	<!ENTITY st45 "fill:url(#aigrd8);stroke:none;">
+	<!ENTITY st46 "fill:#CCCC99;stroke:none;">
+	<!ENTITY st47 "fill:#C76891;stroke:none;">
+	<!ENTITY st48 "fill:#1B586A;stroke:none;">
+	<!ENTITY st49 "fill:#FFFFFF;stroke:none;">
+	<!ENTITY st50 "opacity:0.5;">
+	<!ENTITY st51 "opacity:0.1;fill:#844800;stroke:none;">
+	<!ENTITY st52 "opacity:0.25;fill:#AF8300;stroke:none;">
+	<!ENTITY st53 "fill:url(#aigrd5);stroke:none;">
+	<!ENTITY st54 "opacity:0.1;fill:#164858;stroke:none;">
+	<!ENTITY st55 "opacity:0.2;fill:#AF8300;stroke:none;">
+	<!ENTITY st56 "opacity:0.1;fill:#80435E;stroke:none;">
+	<!ENTITY st57 "opacity:0.25;fill:#8C9F07;stroke:none;">
+	<!ENTITY st58 "opacity:0.15;fill:#9999CC;stroke:#999966;stroke-width:0.25;">
+	<!ENTITY st59 "opacity:0.1;fill:#3C560B;stroke:none;">
+	<!ENTITY st60 "fill:#C2A00E;stroke:none;">
+	<!ENTITY st61 "opacity:0.25;fill:#24758D;stroke:none;">
+	<!ENTITY st62 "opacity:0.2;fill:#8C9F07;stroke:none;">
+	<!ENTITY st63 "fill:#48680D;stroke:none;">
+	<!ENTITY st64 "opacity:0.25;fill:#AD6136;stroke:none;">
+	<!ENTITY st65 "opacity:0.15;fill:#FF9966;stroke:#996600;">
+	<!ENTITY st66 "fill:none;stroke:#24758D;stroke-width:2;">
+	<!ENTITY st67 "opacity:0.2;fill:#24758D;stroke:none;">
+	<!ENTITY st68 "font-size:14;">
+	<!ENTITY st69 "font-size:24;">
+	<!ENTITY st70 "opacity:0.1;fill:#71A214;stroke:none;">
+	<!ENTITY st71 "opacity:0.1;fill:#6A374D;stroke:none;">
+	<!ENTITY st72 "opacity:0.1;fill:#2A89A5;stroke:none;">
+	<!ENTITY st73 "opacity:0.2;fill:#AD6136;stroke:none;">
+	<!ENTITY st74 "opacity:0.25;fill:#97FF99;stroke:none;">
+	<!ENTITY st75 "fill-rule:nonzero;clip-rule:nonzero;stroke:#000000;stroke-miterlimit:4;">
+	<!ENTITY st76 "fill:url(#aigrd7);stroke:none;">
+	<!ENTITY st77 "fill:#CD7100;stroke:none;">
+	<!ENTITY st78 "stroke:none;">
+	<!ENTITY st79 "fill:none;stroke:#24758D;">
+	<!ENTITY st80 "opacity:0.1;fill:#7D6709;stroke:none;">
+	<!ENTITY st81 "opacity:0.15;fill:blue;stroke:#996600;">
+	<!ENTITY st82 "opacity:0.25;fill:#FFFF00;stroke:none;">
+	<!ENTITY st83 "fill:url(#aigrd4);stroke:none;">
+	<!ENTITY vst3 "fill:#e8eef7;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24;">
+	<!ELEMENT chartattribs EMPTY>
+	<!ATTLIST chartattribs 
+		id ID #IMPLIED
+		chartmode (D|P|R) "R"
+		chartindex CDATA #REQUIRED 
+		selectedcolumn CDATA "0">
+<!-- otherwise we get these two garbage characters showing above the svg
+  ]>
+-->
+  
+
+
+  <svg height="100%" width="100%" xml:space="preserve" id="svgdoc"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+<title></title> 
+<desc>bar and pie chart</desc>
+      <defs>
+    <filter id="DropShadowFilter" filterUnits="objectBoundingBox" x="0" y="-10%" width="100%" height="100%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2" result="BlurAlpha"/>
+      <feOffset in="BlurAlpha" dx="4" dy="4" result="OffsetBlurAlpha"/>
+      <feMerge>
+        <feMergeNode in="OffsetBlurAlpha"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <defs id="ChartExternalSettings" chartmode="R" chartindex="0"/>
+<script type="text/ecmascript" xlink:href="js/chart.js" />
+<rect width="100%" height="26px" x="0" y="0" style="fill:#ffffff;"/>
+
+  <g id="controlpanel" style="fill:darkblue; filter:none; fill-opacity:1; "  >
+         <g id="listselector" style="opacity:1;"></g>
+     </g>
+
+<g id="btnpanel" transform="translate(80, 1)"  >
+	
+<g id="refreshbtn" onclick="RefreshChart();">
+	<image id="refresh_btn"  x="27" y="0" width="22px" height="22px" preserveAspectRatio="none"
+			  xlink:href="btn_refresh.gif"
+			  onmouseover="toolbarButtons('refresh_btn','over');showToolTip(evt, 'Refresh chart')"
+			  onmouseout="toolbarButtons('refresh_btn','out');hideToolTip(evt);" >
+		<title >Refresh chart</title>
+		</image>
+</g>
+
+<g id="vbarbtn" onclick="ShowBar();">
+	   <image id="vbar_btn" x="54" y="0" width="22px" height="22px" preserveAspectRatio="none"
+		  xlink:href="btn_vbar.gif"
+		  onmouseover="toolbarButtons('vbar_btn','over');showToolTip(evt, 'Vertical bar chart')"
+		  onmouseout="toolbarButtons('vbar_btn','out');hideToolTip(evt);" >
+		<title >Vertical bar chart</title>
+		</image>
+</g>
+    
+<g id="hbarbtn" onclick="ShowHBar();">
+	   <image id="hbar_btn" x="81" y="0" width="22px" height="22px" preserveAspectRatio="none"
+	   xlink:href="btn_hbar.gif"
+	   onmouseover="toolbarButtons('hbar_btn','over');showToolTip(evt, 'Horizontal bar chart')"
+	   onmouseout="toolbarButtons('hbar_btn','out');hideToolTip(evt);" >
+		<title >Horizontal bar chart</title>
+		</image>
+</g>
+    
+<g id="linebtn" onclick="ShowLine();">
+	   <image id="line_btn"  x="108" y="0" width="22px" height="22px" preserveAspectRatio="none"
+		  xlink:href="btn_line.gif"
+		  onmouseover="toolbarButtons('line_btn','over');showToolTip(evt, 'Line chart')"
+		  onmouseout="toolbarButtons('line_btn','out');hideToolTip(evt);">
+		<title >Line chart</title>
+		</image>
+</g>
+    
+<g id="piebtn" onclick="ShowPie();">
+	   <image id="pie_btn"  x="135" y="0" width="22px" height="22px" preserveAspectRatio="none"
+			 xlink:href="btn_pie.gif"
+			 onmouseover="toolbarButtons('pie_btn','over');showToolTip(evt, 'Pie chart')"
+			 onmouseout="toolbarButtons('pie_btn','out');hideToolTip(evt);">
+		<title >Pie chart</title>
+		</image>
+</g>
+      
+<g id="morebtn" onclick="ShowMore();">
+	   <image id="more_btn" x="162" y="0" width="22px" height="22px" preserveAspectRatio="none"
+				 xlink:href="btn_showmore.gif"
+				 onmouseover="toolbarButtons('more_btn','over');showToolTip(evt, 'Show more values')"
+				 onmouseout="toolbarButtons('more_btn','out');hideToolTip(evt);" >
+	  <title >Show more values</title>
+	  </image>
+</g>
+    
+<g id="lessbtn" onclick="ShowLess();" >
+      <image id="less_btn" x="187" y="0" width="22px" height="22px" preserveAspectRatio="none"
+					  xlink:href="btn_showless.gif"
+					  onmouseover="toolbarButtons('less_btn','over');showToolTip(evt, 'Show less values')"
+					  onmouseout="toolbarButtons('less_btn','out');hideToolTip(evt);" >
+	  <title >Show less values</title>
+	  </image>
+</g>
+		
+		</g>
+
+    <g id="progressbar"  transform="translate(170,170)" > 
+		
+				      <rect width="150" height="12.75"  fill="none" stroke="black"/>
+				      <rect id="progress" height="12.75" width="1" fill="blue"/>
+				      <text id="status" x="75" y="9.5" fill="black" text-anchor="middle">0%</text>
+			
+	        </g>
+        
+        
+        
+<g id="chartbase" transform="scale(1, 1)">
+	
+	<g id="Title" style="&st18;">
+		<text transform="matrix(1 0 0 1 14 41.7061)" ><tspan x="0" y="0" style="&st9; &st69;" id="grtitle">.</tspan></text>
+	</g>
+
+	<g id="legendbox" style="visibility:hidden">
+	       	
+		<g id="legendtxt" transform="translate(8,-200)">
+			<text x="46.70" y="293.48" style="font-weight:bold" id="legendname">Click to highlight</text>		
+		</g>
+		<g id="legend1" transform="translate(15,-180)" style="visibility:hidden">
+			<rect id="legend1rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend1text" x="46.70" y="293.48">Legend 1</text>		
+		</g>
+		<g id="legend2" transform="translate(15,-160)" style="visibility:hidden">
+			<rect id="legend2rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend2text" x="46.70" y="293.48">Legend 2</text>		
+		</g>
+		<g id="legend3" transform="translate(15,-140)" style="visibility:hidden">
+			<rect id="legend3rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend3text" x="46.70" y="293.48">Legend 3</text>		
+		</g>
+
+		<g id="legend4" transform="translate(15,-120)" style="visibility:hidden">
+			<rect id="legend4rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend4text" x="46.70" y="293.48">Legend 4</text>		
+		</g>
+		<g id="legend5" transform="translate(15,-100)" style="visibility:hidden">
+			<rect id="legend5rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend5text" x="46.70" y="293.48">Legend 5</text>		
+		</g>
+		<g id="legend6" transform="translate(15,-80)" style="visibility:hidden">
+			<rect id="legend6rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend6text" x="46.70" y="293.48">Legend 6</text>		
+		</g>
+		<g id="legend7" transform="translate(15,-60)"  style="visibility:hidden">
+			<rect id="legend7rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend7text" x="46.70" y="293.48">Legend 7</text>		
+		</g>
+		<g id="legend8" transform="translate(15,-40)" style="visibility:hidden">
+			<rect id="legend8rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend8text" x="46.70" y="293.48">Legend 8</text>		
+		</g>
+		<g id="legend9" transform="translate(15,-20)" style="visibility:hidden">
+			<rect id="legend9rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend9text" x="46.70" y="293.48">Legend 9</text>		
+		</g>
+		<g id="legend10" transform="translate(15,0)" style="visibility:hidden">
+			<rect id="legend10rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend10text" x="46.70" y="293.48">Legend 10</text>		
+		</g>
+		<g id="legend11" transform="translate(15,20)" style="visibility:hidden">
+			<rect id="legend11rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend11text" x="46.70" y="293.48">Legend 11</text>		
+		</g>
+		<g id="legend12" transform="translate(15,40)" style="visibility:hidden">
+			<rect id="legend12rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend12text" x="46.70" y="293.48">Legend 12</text>		
+		</g>
+		<g id="legend13" transform="translate(15,60)" style="visibility:hidden">
+			<rect id="legend13rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend13text" x="46.70" y="293.48">Legend 13</text>		
+		</g>
+
+		<g id="legend14" transform="translate(15,80)" style="visibility:hidden">
+			<rect id="legend14rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend14text" x="46.70" y="293.48">Legend 14</text>		
+		</g>
+		<g id="legend15" transform="translate(15,100)" style="visibility:hidden">
+			<rect id="legend15rect" x="23.35" y="285.375" width="9" height="9" style="&st4;"/>
+			<text id="legend15text" x="46.70" y="293.48">Legend 15</text>		
+		</g>
+	</g>
+<g id="hiddenChart" transform="translate(40,0)">
+     <g>
+        <g id="barchart" transform="translate(0, 300)" style="visibility:hidden">
+          <path d="M0,0H-5 0V-250 h -5 10 -5 V 0H300 0" style="fill:none;stroke:black;"/>
+          <g id="bars" style="">
+          </g>
+          <g id="labels" transform="translate(12, 12)" style="visibility:hidden">
+          </g>
+        </g>
+	<g style="visibility:hidden" id="barsidetext" transform="translate(0, 250)" >
+		<text x="-190" y="125" style="font-weight:bold;text-anchor:middle;font-size:13" id="axis" transform="rotate(-90)">
+		</text>
+		<text x="238" y="105" style="font-weight:bold;text-anchor:end;font-size:13" id="max"><![CDATA[ ]]>
+		</text>
+		<text x="208" y="285" style="font-weight:bold;text-anchor:end;font-size:13" id="min"><![CDATA[ ]]>
+		</text>
+	 </g>
+        <g id="hbarchart" transform="translate(0, 300)" style="visibility:hidden">
+          <path d="M0,0H-5 0V-280 h -5 10 -5 V 0H300 0" style="fill:none;stroke:black;"/>
+          <g id="hbars" style="">
+          </g>
+          <g id="hlabels" transform="translate(12, 12)">
+          </g>
+        </g>
+        <g >
+          <g id="piechart" transform="translate(220, 200) scale(1, .5)" style="">
+            <g id="slices">
+            </g>
+          </g>
+        </g>
+        <g id="pieitemlabel">
+          <text x="295" y="340" id="labelitem" style="text-anchor:end;font-size:13;font-weight:bold">
+          </text>
+          <text x="300" y="340" id="labelcolon" style="text-anchor:middle;font-size:13">
+          </text>
+          <text x="305" y="340" id="labelamount" style="text-anchor:start;font-size:13">
+          </text>
+        </g>
+      </g>
+        <g id="linechart" transform="translate(0, 350)" style="visibility:hidden">
+          <path d="M0,0H-5 0V-250 h -5 10 -5 V 0H500 0" style="fill:none;stroke:black;"/>
+          <path d="M0,0" style="fill:none;stroke:black;" id="linechartline"/>
+          <g id="linenodes" style="">
+          </g>
+          <g id="linelabels" transform="translate(12, 12)">
+          </g>
+        </g>
+      <g>
+        <g id="scatterchart" transform="translate(300, 300)" style="visibility:hidden">
+          <path d="M-250,0H250 0M0,-250V0,250" style="fill:none;stroke:black;"/>
+          <g id="scatternodes" style="">
+          </g>
+          <g id="scatterlabels" transform="translate(12, 12)">
+          </g>
+        </g>
+      <g>
+        <text x="320" y="60" style="font-weight:bold;text-anchor:middle;font-size:20" id="title">
+        </text>
+        <text x="300" y="130" style="font-weight:bold;text-anchor:middle;font-size:16" id="subtitle">
+        </text>
+      </g>
+
+  </g>
+</g>
+	
+	<g id="toolTipBox" style="display:none;pointer-events:none" >
+		<rect id="toolTipBack" height="18" width="0"  style="fill:lightgray;stroke:black;shape-rendering:crispEdges" />
+	    <text id="toolTipText" transform="translate(5,14)">toolTip</text>
+	</g>
+	
+</g>
+</svg>
